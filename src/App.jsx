@@ -17,7 +17,7 @@ function App() {
   return (
     <>
       <h1>Hi George 👋👌</h1>
-      <button onClick={changeCount}>Press Me</button>
+      <button onClick={changeCount}>Click Me</button>
       <button onClick={resetCount}>Reset</button>
       <div>
         <h2>The count is: {count}</h2>
